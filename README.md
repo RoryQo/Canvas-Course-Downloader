@@ -1,4 +1,4 @@
-# Download All Canvas Courses Content  
+# Download All Canvas Courses Content   
 
 
 **No programming experience needed.** Just follow the steps outlined in the README and only edit the clearly marked cells.
