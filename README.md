@@ -23,11 +23,7 @@ It works for all courses you have access to, including both current and past enr
 ## Setup Instructions
 
 ### 0. Pre - Set up
-To easily view the notebook you can open on the web at:
-
-https://colab.research.google.com
-
-or download Anaconda Navigator at:
+To easily run the notebook you can download Anaconda Navigator at:
 
 https://www.anaconda.com/download
 
